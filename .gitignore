@@ -1,0 +1,7 @@
+.vs/
+Battleship/Debug/
+Battleship/Release/
+Release/
+Debug/
+ipch/
+Battleship.VC.db
